@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: postgres
+    password: root
+
+server:
+  port: 8090
